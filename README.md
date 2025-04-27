@@ -1,4 +1,4 @@
-![Banner](assets/background.jpg)
+![Banner](assets/background_up.jpg)
 # 👋 Hi, I'm WolfXeno!
 
 🚀 Passionate C# and IoT developer  
@@ -9,3 +9,4 @@
 
 ---
 📚 Current focus: C#, Angular , Python , IoT projects.
+![Banner](assets/background_down.jpg)
