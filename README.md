@@ -9,4 +9,5 @@
 
 ---
 📚 Current focus: C#, Angular , Python , IoT projects.
+#
 ![Banner](assets/background_down.jpg)
