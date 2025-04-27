@@ -1,3 +1,4 @@
+![Banner](assets/background.jpg)
 # 👋 Hi, I'm WolfXeno!
 
 🚀 Passionate C# and IoT developer  
